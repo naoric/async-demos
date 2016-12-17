@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "async": "^2.1.4",
+    "commander": "^2.9.0",
+    "fs-extra": "^1.0.0",
+    "lodash": "^4.17.2"
+  },
+  "name": "node-demo",
+  "version": "1.0.0",
+  "description": "this is my node demo",
+  "main": "collections.js",
+  "author": "Naor Ami",
+  "license": "MIT"
+}
